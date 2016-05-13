@@ -1900,7 +1900,7 @@
             "Ref": "BastionSecurityGroup"
           }
         ],
-        "AssociatePublicIpAddress": true,
+        "AssociatePublicIpAddress": false,
         "IamInstanceProfile": {
           "Ref": "BastionIAMInstanceProfile"
         },
@@ -2139,7 +2139,7 @@
         "CidrBlock": {
           "Ref": "PublicSubnetCIDR"
         },
-        "MapPublicIpOnLaunch": true,
+        "MapPublicIpOnLaunch": false,
         "AvailabilityZone": {
           "Ref": "AvailabilityZone"
         },
