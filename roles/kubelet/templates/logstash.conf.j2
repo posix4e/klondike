@@ -1,8 +1,7 @@
 input {
-  stdin {
-    codec => "json_lines"
-    type => "stdin"
-    tags => [ "coreos" ]
+  beats {
+    port => 5601
+    host => "127.0.0.1"
   }
 }
 filter {
