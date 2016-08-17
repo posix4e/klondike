@@ -19,6 +19,10 @@ The bastion is an administrative host that facilitates the management of the klo
 An operator uses the bastion for initial cluster deployment, as well as on-going cluster management tasks.
 
 
-## [Installation] (INSTALL.md)
+## Installation 
+There's no quick way to bootstrap this. However our guide is thourough and regularly tested.
+[Istallation] (INSTALL.md)
 
-## [Guides] (docs/index.md)
+## Guides 
+There's many users of a cluster. We have tried to be thorough but there is still much to do.
+[Guides] (docs/index.md)
