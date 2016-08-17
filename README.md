@@ -21,7 +21,7 @@ An operator uses the bastion for initial cluster deployment, as well as on-going
 
 ## Installation 
 There's no quick way to bootstrap this. However our guide is thourough and regularly tested.
-[Istallation] (INSTALL.md)
+[Installation] (INSTALL.md)
 
 ## Guides 
 There's many users of a cluster. We have tried to be thorough but there is still much to do.
