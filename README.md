@@ -21,4 +21,4 @@ An operator uses the bastion for initial cluster deployment, as well as on-going
 
 ## [Installation] (INSTALL.md)
 
-## [Docs Guide] (docs/index.md)
+## [Guides] (docs/index.md)
